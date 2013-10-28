@@ -2,7 +2,7 @@
 
 /**
  * The Specialpage is a list of ten most prominent editors of use and view to an article page
- * by Michael McCouman jr (Nexus) 2008 (Release2103/ 17.x-18.0)
+ * by Michael McCouman jr (Nexus) 2008 (Release2103/ 17.x-18.0 -2011-2012)
  */
 
 /*
